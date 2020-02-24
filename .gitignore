@@ -1,0 +1,13 @@
+node_modules/
+# WebStorm files
+.idea/
+# built code
+dist/
+.webpack
+.build
+.serverless
+out.txt
+.data/docx_tmp
+.data/images
+*.log
+.env
